@@ -1,0 +1,308 @@
+ByFatihbab34TM	This is a Fatihbab34 production
+ALISVERIS_TITLE	Eþya Maðazasý & ItemShop ~ by Fatihbab34™
+RIOT3_YAPIMCILARI	Geliþtiriciler
+ITEMINEVS_TITLE	Ýtemine Düello Paneli
+BETAOXO	Bu bir beta süreci için yapýlan çalýþmadýr.Sadece 1 kez denenebilir(Her oyun giriþinde).Görüþlerinizi bize bildirebilirsiniz.'
+OTOTITLE	Otomatik Giriþ
+SADECESERVERDE	Otomatik giriþ ayarlarýný sadece kanal seçme yerinde yapabilirsin!
+SADECE1	Hakkýnýz doldu! Tekrar iþlem yapmak için oyunu kapatýp açýn!
+OTOMATIKGIR	Adlý hesaba otomatik giriþ yapmak istiyormusun?
+OTODURDURULDUTEXTIGIR	UYARÝ : Isýnlandiginda afk yazisi gidecektir.
+RAKIPKABULETMEDISENDEETMEDIN	Rakip kabul etmediði için sen de kabul edemessin, bu yüzden savaþ Hp ve Sp görünmeden baþlayacak.
+RAKIPKABULETMEDILANXD	Rakip HP ve SP görmeye izin vermedi, bu yüzden duelloda 2niz de birbirinizin Hp ve Spsini göremeyeceksiniz.
+KUR	Oluþtur
+KANAL222	Zagros - Kanal seçilmemiþ.
+SIRALAMA	Sýralama
+SIFREOLUSTURULDU	Þifren oluþturuldu!
+ENVANTER_DEGISTIR	Görünüm D.
+MESAHJGONDERONA	Ona mesaj mesaj gönder!
+ITEMSHOPLOGIN	Riot3 - Shop Market
+ENGELLEDIGINKISILEREMESAJATAMASSIN	Engellediðin kiþilere mesaj atamassýn.
+TUMLONCALAR	Kendine uygun lonca bul, loncana uygun kiþi bul, loncalara gözat ve daha fazlasý...
+DESTEK	Destek Al
+DUYURULARDURUM	Duyurular Açýk
+DUYURULARDURUM2	Duyurular Kapalý
+OTOMATIK	Otomatik Giriþ (Açýk)
+KONUSTUGAEKLENDI	adlý oyuncu konuþtuðun kiþiler listesine eklendi.
+OTOMATIKNO	Otomatik Giriþ Belirle
+EXCHANGE_TITLE_FATIHBAB34	Alýþveriþ
+NPRT_DEGERGIR	Lütfen dönüþtürmek istediðiniz np deðerini girin.
+NPRT_SADECE10	Dönüþtürme için sadece 10,15,20,25,30,35,40,45,50,55,60,65,70,75 vb. gibi sayýlar girebilirsiniz.
+RTEP_DEGERGIR	Lütfen dönüþtürmek istediðiniz rt deðerini girin.
+RTEP_SADECE10	Dönüþtürme için sadece 10,20,30,40,50,60,70 gibi sayýlar girebilirsiniz.
+NPRT_CEVIR	Çevir
+RTEP_CEVIR	Çevir
+DEPOAC	Depo Aç!
+GONDERDI	adlý oyuncu mesaj gönderdi.
+ITEMISTE	item iste
+OTOMATIKKAYITOLDU	Otomatik kayýt hesabý eklendi!
+REPVER	RT Puaný Yolla/Ýste
+IMZADEGIS	Ýmza deðiþtir
+RTMIALYOL	RT Puaný Yolla veya Talep et?
+REPTALEPET	RT Puani Talep et.
+REPGONDER	RT Yolla
+REPICINDEGERGIRIN	Lütfen bir göndermek istediðiniz RT Puaný girin.
+REPICINDEGERGIRINET	Lütfen RT Puaný istemek için bir RT Puani girin.
+EGERKAPATIRSAN	Eðer kapatýrsan tüm talepleri otomatikmen reddetmiþ olacaksýn!
+SPAMLAVEYASIKAYETET	Þikayet et/Sohbetten Engelle.
+SIKAYETETVEENGELLE	Þikayet et ve Sohbetten engelle.
+SPAMLAVEYAENGELIAC	Þikayet et/Sohbeti aç
+IMZA	Ýmza
+ENGELLEVEYAENGELIACTEXT	Þikayet et veya Engeli aç?
+ENGELLE	Sohbetten Engelle!
+SIKAYETETVEYAENGELLEXD	Þikayet et veya Engelle?
+SIKAYETET	Þikayet et
+RIOTSIKAYETVEENGELLEMEPANELI	Riot3 Þikayet ve Engelleme Menüsü
+SADECE1KEZENGELLEYEBILIRSIN	Bu oyuncuyu sadece 1 kez þikayet edebilirsin.Birden fazla kez þikayet ettiðinde cezai yaptýrým uygulanýr.
+ENGELIAC	Sohbetten engeli kaldýr!
+OYUNDAOLMASILAZIM	Oyuncuyu engellemek için oyunda olmasý gereklidir.
+ONCEKITALEP	Önceki Talep
+SOZLESME	Riot3 Sözleþmesi
+KANALSEC	Bir kanal seçmedin!
+OYUNCUENGELLENDI	adlý oyuncuyu engelledin!
+OYUNCUENGELIKALDIRILDI	adlý oyuncunun engelini açtýn!
+MESSENGERIYENILE	Messengeri yenile(Arkadaþlarýnýn durumu'da deðiþecektir.)!
+CEVRIMICISUANDA	Çevrimiçi
+CEVRIMDISISUANDA	Çevrimdýþý(Görünmez)
+DISARDASUANDA	Dýþarýda(Uzakta)
+OTOMATIKDURDURULDU	Otomatik giriþ sonlandýrýldý!
+ONLINE	Çevrimiçi
+ENGELIKALDIR	Engeli Aç
+VAZGECTINARTIKGOREMEZ	Þuanda
+GOREMEZHPNI	adlý oyuncu hp ve sp'nizi göremiyor.
+OFFLINE	Görünmez
+ZATENONLINESIN	Þuanda zaten çevrimiçi modundasýn.
+OFFLINEDENONLINEYE	Görünmez modundan çevrimiçi moduna geçtin.
+DISARDADANONLINEYE	Dýþarda modundan çevrimiçi moduna geçtin.
+ZATENOFFLINESIN	Þuanda zaten görünmez modundasýn.
+ONLINEDENGORUNMEZE	Çevrimiçi modundan görünmez moduna geçtin.
+DISARDADANGORUNMEZE	Dýþarda modundan görünmez moduna geçtin.
+ZATENDISARDASIN	Þuanda zaten dýþarda modundasýn.
+ONLINEDENDISARIYA	Çevrimiçi modundan dýþarý moduna geçtin.
+OFFLINEDENDISARIYA	Görünmez modundan dýþarýda moduna geçtin.
+CANBUKADARKENCIKMAYIN	Lütfen çýkmadan önce canýnýzý fulleyin.
+DISARDA	Uzakta
+IPTAL12	Ýptal
+IDSILEBILIRSIN	Kullanýcý adýný silebilirsin.
+RIOTDUYURU	Riot3 Beta surecinde ve Cok yakinda kapilarýni siz degerli kullanýcilarýna acýcak!
+SIFRESILEBILIRSIN	Þifreyi silebilirsin.
+BOS	Boþ Hesap
+FACE	Riot3 Resmi Facebook Sayfamýz
+RIOTHESAPVEOYUNSYSTEM	Hesap ve Oyun Ayarlarý
+HESAP_TITLE	Riot3 Geliþmiþ Hesap ve Oyun Ayarlarý (v.1.0)
+ENVANTERGIRMELISIN	Envanter þifresini girmeden,Hesap ve Oyun ayarlarý bölümünü kullanamassýn!
+RENKSEC	Mesajýnýn rengini belirle!
+RENGISIYAHYAP	Mesaj rengini siyah yap!
+RENKSIYAHOLDU	Mesaj rengin siyah oldu.
+RENGIBEYAZYAP	Mesaj rengini beyaz yap!
+RENKBEYAZOLDU	Mesaj rengin beyaz oldu.
+RENGIYESILYAP	Mesaj rengini yeþil yap!
+RENKYESILOLDU	Mesaj rengin yeþil oldu.
+RENGIMAVIYAP	Mesaj rengini mavi yap!
+RENKMAVIOLDU	Mesaj rengin mavi oldu.
+RENGIPEMBEYAP	Mesaj rengini pembe yap!
+RENKPEMBEOLDU	Mesaj rengin pembe oldu.
+RENGIKIRMIZIYAP	Mesaj rengini kýrmýzý yap!
+RENKKIRMIZIOLDU	Mesaj rengin kýrmýzý oldu.
+RENGISARIYAP	Mesaj rengini sarý yap!
+RENKSARIOLDU	Mesaj rengin sarý oldu.
+YOU	Riot3 Resmi Youtube Kanalý
+NOBOS	Hesap ismi veya þifreniz boþ býrakýlmýþ!
+KAYITOK	Hesap kayýt edildi!
+TUMDOLU	Tüm hesaplar dolu,lütfen bir slot silin!
+SAVASCI	Savaþçý
+NINJA	Ninja
+SURA	Sura
+SAMAN	Þaman
+PAZAR_ITEMSEC_TITLE	Eþya Seç
+PAZAR_ITEMISTIYON	adlý itemi istedin.
+PAZAR_ENFAZLA	En fazla 1 tane ayrý item isteyebilirsiniz.
+PAZAR_KACADETISTIYOSUN	Kaç adet istiyorsun?
+PAZAR_BIRADETGIRIN	Lütfen istediðiniz adeti düzgün girin.
+PAZAR_ICIN	için
+PAZAR_LUTFENBIRFIYATGIRIN	Lütfen bir fiyat girin!
+PAZAR_HAYIR	Hayýr
+BEDELLIDUELLO	Eþyasýna Duello
+ISTIYORMUSUNHP	HP,SP Görme'ye izin veriyormusun?
+VERILERALINIYOR	Server verileri alýnýyor lütfen bekleyin...
+VERILERALINAMADI	Veri alýmý baþarýsýz, yine de devam ediliyor...
+SIRALAMAVERILERIALANAMADI	Sýralama verileri alýnamadý.
+KAYITLARALINIYOR	Oyuncu yedekleri alýnýyor lütfen bekleyin...
+VERSIYONKONTROLUYAPILIYOR	Versiyon kontrolü yapýlýyor(RIOT3 ~ BETA)...
+HESAPAYARLARITOOL	Hesap Ayarlarýný Deðiþtir veya Oyun Ýstatistiklerine gözat.
+RIOTSHOPTOOL	Riot3 Eþya Maðazasýna girerek birbirinden güzel eþyalarý keþfet!
+KADERTOOL	Kaderini deðiþtireçek eþyalarý bulmak için çarký çevir!
+OTOTOOL	Oyun baþýnda olamayacaðýn zaman sana ulabilmeleri için mesaj býrak!
+RIOTYONETIMINESORUNBILDIRTOOL	Riot3 Yönetimine Oyun içi olan sorunlarý bildirerek geliþmemizde bize yardýmcý ol!
+YARDIMALTOOL	35 Level'den yüksek herhangi bir oyuncuya yardým için otomatik mesaj at!
+YENICLIENT	Yeni bir Riot2Client'i çalýþtýrýr.
+ENVANTERACILDICHATVER	Lütfen þifrenizi girin(depo & envanter eþittir.)
+ALISVERIS	Alýþveriþ
+KADERCARK	Kader çarký Oyna
+ISINLAN	Riot3 Haritasý
+KANAL	Kanal deðiþtir
+YARDIMISTE	Yardým iste!
+YENIOYUN	Yeni Oyun çalýþtýr
+BUYEROYNANMIS	Bu yer zaten oynanmýþ.
+SIRASENDEDEGIL	Sýra sende deðil.
+PESEMIN	Pes etmek istediðine eminmisin?
+OYUNDENCEKILDI	oyundan çekildi ve kaybetti.
+SIRASENDE	Sýra sende.
+KAZANDIN	Tebrikler kazandýn!
+OYUNAXBASLAR	Oyuna "X" olduðu için karþý taraf baþlar.
+OYNANDIVE	O-X-O Oynandý ve kazanan
+ITEMKATEGORI	Ýtem kategorisi seç
+ITEMLERIM	Ýtemlerim
+ITEMADI	Adý
+SATICI	Satýcý
+CIKTIN	Grup'tan çýktýn.
+HERKEZCIKTI	Herkez çýktý
+KISIKALMADI	Grupta mesaj atýcak kiþi kalmadi.
+KONUSTUKLARIMISIL	Tüm konuþtuklarýmý sil
+SILMEYEEMINMISINKONUSTUKLARIM	Tüm konuþtuðun kiþiler silinecek, onaylýyormusun?
+TUMKONUSMASILINDI2	Konuþtuðun tüm kiþiler silindi.
+TARAFINDAN	tarafýndan
+KATILDINGRUBA	adlý gruba katýldýn.
+CIKMAKISTIYORMUSUN	Gruptan çýkmak istediðine eminmisin?
+SIFREGIRMENGEREKLI	Okumak için envanter þifresini girmen gerekli.
+SOHBETAYARLARI	Sohbet ayarlarý
+EKLE	Arkadaþ ekle
+YAZIYOR	Yazýyor...
+GRUP_CIKAR	Grup ayarlarý
+GRUP_NOTICE	Grup ayarlarý..
+SOHBET_NOTICE	Sohbet ayarlarý..
+NEYAPCAN	adli oyuncu'ya ne yapmak istiyorsun?
+KONUSMALARIN	Konuþmalarýn.
+CIKARILDI	Çýkarýldý
+CIKTI	Çýktý.
+EKLEDI	ekledi.
+GRUPOLUSTUR	Oluþtur
+GRUPUYELERITEXT	Grup üyeleri:
+LUTFENOYUNCUADIGIRIN	Lütfen bir grup adi girin.
+KENDINIEKLIYEMESSIN	Kendini ekliyemessin.
+ADLIGRUP	adlý grup
+DEGISTI	Deðiþti.
+KENDINISECEMESSIN	Kendini seçemessin.
+KENDINICIKARAMASSIN	Kendini çýkaramassýn.
+CIKARTEXT	Çýkar
+GRUPKURULDU	Grup kuruldu.
+GRUBAEKLENDI	gruba eklendi.
+SESSIZEALINDIKONUSMA	Konuþmayý sessize aldý.
+SESLIALINDIKONUSMA	Konuþmayý tekrardan açtý.
+GRUPUYEEKLEMEBOLUMU	Grup üye ekleme paneli
+SESLIALINDI2	Konuþma tekrardan açýldý.
+SESSIZYAPILDI	Konuþma sessize alýndý.
+TUMKONUSMALARISIL	Tüm konuþma kayýtlarýný sil
+SILMEYEEMINMISIN	Tüm konuþmalari silmek istediðine eminmisin?
+TUMKONUSMASILINDI	adlý oyuncuyla tüm konuþmalarýnýz silindi(Karþý tarafta konuþma kayýtlarý hayla aktif olacaktýr.)
+MESAJAT	Mesaj At
+KONUS	Konuþ
+MYKONUSMA	Konuþtuklarým
+GRUPTAKILER	Gruptakiler
+GRUPTANCIKMENU	Gruptan çýk
+GRUPSESSIZEAL	Konuþmayý sessize al
+GRUPSESLIYEAL	Konuþmayý tekrar aç
+TUMKONUSMALAR	Tüm konuþmalarý gör
+GRUPADINIDEGIS	Grup Kur
+IMZAGIRIN	Yeni imzanýzý girin veya deðiþtirin:
+IMZAYOK	...
+IMZAYIDOGRU	Ýmza boþ býrakýlamaz ve 2 Karakter'den az olamaz.
+ESKIIMZAILEAYNI	Ýmzanýz eski imzanýn ile ayný olduðu için deðiþiklik olmadý.
+IMZADEGISTI	Ýmzanýz baþarýyla deðiþtirildi.
+IMZAYAERISILEMIYOR	Kiþinin imzasýna eriþilemiyor.
+GRUBUSIL	Grubu Sil
+SILMEKICINGRUPLIDERIOLMALISIN	Grubu silmek için grup lideri olman gerekli.
+NONO	Hayýr
+GRUPSILINDI	Grup baþarýyla silindi.
+ZATENSILINDI	Grup zaten silinmiþ.
+CIKARILDI	çýkarýldý.
+YENIAD	Yeni konuþma adýný girin
+YENIADAYNI	Girdiðin ad þuan zaten grubun adi!
+ADINI	Konuþma adýný
+ADINI2	yaptý.
+ATCAGIR	At Çaðýr!
+VIDEOCEK	Video Çek!
+EKIPMANDEGIS	Yedek ekipman belirle!
+CHDEGIS	Kanal Deðiþtir!
+BONUSTABLOSU	Bonus
+ENVANTERSIFRENIGIRMELISIN	Güvenlik þifreni girmelisin.
+DUNYA	Riot3 Dünya Haritasý
+EFSUNTITLE	Efsun Paneli
+EFSUNACILDITITLEGIR	Efsun Panelini açtýn, itemini ve efsun nesnesini girerek efsunlarýný deðiþtirebilirsin.
+DEGISTIRTEXT	Deðiþtir
+GRUPTEMIZLE	Pencereyi temizle
+BUKONUSMAENGELLENDI	Bu konuþma engellendi.
+SESSIZEALINDI	adli grup sessize alýndý.
+GRUPADIGIRIN	Grup adýný girmeniz gerekmektedir.
+GRUPUYESIGIRIN	Grup üyesi girmeniz gerekmektedir.
+GRUPKENDINIEKLIYEMESSIN	Kendi adinizi girmenize gerek yoktur,otomatik siz zaten ekleniceksiniz.
+GRUPKURULDUNOPROBLEM	Grup kuruldu.
+KATILDI	gruba katýldý.
+TARGET_BUTTON_DUELLOVEITEM	Esya ile Savaþ
+ALDIN	Bu günlük hediyeni almiþssin,24 saat sonra gel.
+KANAL_CHANGE	Deðiþtir
+KANAL_TITLE	Kanal Deðiþtirme
+KANAL_BOS	Bir kanal seçmeniz gerekli.
+SORUN_TITLE	Riot3 - Yönetimine mesaj
+EKIPMAN_CHANGE	Ekipman Deðiþtir
+EKIP_TITLE	Hýzlý Ekipman
+LONCALAR_TITLE	Tanýtýlan loncalar
+TELEPORT_TITLE	Dünya Haritasý
+KAPALI	baðlý deðil
+Mavi1	Mavi bayrak 1.köy
+Sari1	Sarý bayrak 1.köy
+Kirmizi1	Kýrmýzý bayrak 1.köy
+Mavi2	Mavi bayrak 2.köy
+Sari2	Sarý bayrak 2.köy
+Kirmizi2	Kýrmýzý bayrak 2.köy
+Vadi	Vadi
+Sogan	Soðan daðý
+Yongbi	Yongbi Çölü
+AtesDiyari	Ateþ diyarý
+DevlerDiyari	Devler diyarý
+Hayaletorman	Hayalet ormaný
+Orumcek1	Örümcek zindaný 1.kat sonu
+Orumcek2	Örümcek zindaný 1.kat baþý
+KizilBasi	Kýzýl Orman Baþý
+KizilSonu	Kizil Orman Sonu
+MESSENGER_IGNORE	Engelle\Engeli Kaldýr
+SEENFB34	Görüldü
+Gunluk10_TITLE	Günlük görevler(10Lv.)
+Gunluk10_GOREV1_TOOLTIP	15 tane ayi kes görevininin detaylarýný göster
+Gunluk10_GOREV2_TOOLTIP	2 tane savaþ metini öldür görevinin detaylarini göster
+Gunluk10_GOREV2AD	2 tane savaþ metini öldür!
+Gunluk20_TITLE	Günlük görevler(20Lv.)
+Gunluk20_GOREV1_TOOLTIP	Eun-Jung Öldür
+Gunluk20_GOREV2_TOOLTIP	2 tane savaþ metini öldür görevinin detaylarini göster
+Gunluk20_GOREV2AD	2 tane savaþ metini öldür!
+Gunluk30_TITLE	Günlük görevler(30Lv.)
+Gunluk30_GOREV1_TOOLTIP	Bo Öldür görevinin detaylarini göster
+Gunluk30_GOREV2_TOOLTIP	Goa-Pae öldür görevinin detaylarini göster
+Gunluk30_GOREV3_TOOLTIP	Yabani Okçu öldür görevinin detaylarini göster
+Gunluk30_GOREV1AD	Bo Öldür!
+Gunluk30_GOREV2AD	Goa-Pae Öldür!
+Gunluk30_GOREV3AD	Yabani Okcu Öldür!
+Gunluk40_TITLE	Günlük görevler(40Lv.)
+Gunluk40_GOREV1_TOOLTIP	Vahþi Yüzbaþý'yý Öldür görevinin detaylarini göster
+Gunluk40_GOREV2_TOOLTIP	Ork Reisi öldür görevinin detaylarini göster
+Gunluk40_GOREV3_TOOLTIP	Siyah Ork öldür görevinin detaylarini göster
+Gunluk40_GOREV1AD	Vahþi Yüzbaþý Öldür!
+Gunluk40_GOREV2AD	Ork Reisi Öldür!
+Gunluk40_GOREV3AD	Siyah Ork Öldür!
+Gunluk50_TITLE	Günlük görevler(50Lv.)
+Gunluk50_GOREV1_TOOLTIP	Karanlýk Lider Öldür görevinin detaylarini göster
+Gunluk50_GOREV2_TOOLTIP	Kralice Örümcek öldür görevinin detaylarini göster
+Gunluk50_GOREV1AD	Karanlýk Lider Öldür!
+Gunluk50_GOREV2AD	Kralice Örümcek Öldür!
+Gunluk60_TITLE	Günlük görevler(60Lv.)
+Gunluk60_GOREV1_TOOLTIP	Lanet Metini Öldür görevinin detaylarini göster
+Gunluk60_GOREV1AD	Lanet Metini Öldür!
+Gunluk70_TITLE	Günlük görevler(70Lv.)
+Gunluk70_GOREV1_TOOLTIP	Düþmanlarý Öldür görevinin detaylarini göster
+Gunluk70_GOREV1AD	Düþmanlari Öldür!
+Gunluk80_TITLE	Günlük görevler(80Lv.)
+Gunluk80_GOREV1_TOOLTIP	Düþmanlarý Öldür-2 görevinin detaylarini göster
+Gunluk80_GOREV1AD	Düþmanlari Öldür-2!
+Gunluk90_TITLE	Günlük görevler(90Lv.)
+Gunluk90_GOREV1_TOOLTIP	Düþmanlarý Öldür-3 görevinin detaylarini göster
+Gunluk90_GOREV1AD	Düþmanlari Öldür-3!
